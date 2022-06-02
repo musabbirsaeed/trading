@@ -1,1 +1,2 @@
 tradingview_ta
+plotly-express

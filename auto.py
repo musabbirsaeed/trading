@@ -4,6 +4,8 @@ import pandas as pd
 from tradingview_ta import TA_Handler, Interval, Exchange
 import plotly.express as px
 
+st.set_page_config(layout="wide")
+
 
 # Run the autorefresh about every 2000 milliseconds (2 seconds) and stop
 # after it's been refreshed 100 times.
